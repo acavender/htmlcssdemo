@@ -1,0 +1,50 @@
+body {
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+h1 {
+    color: rgb(0, 255, 106);
+}
+
+h2 {
+    color: red;
+}
+
+
+#twins {
+    background-color: pink;
+    color: blue;
+}
+
+#dodgers {
+    color: blue;
+}
+
+.football {
+    font-family: arial;
+    background-color: lightgrey;
+    color: blue;
+    text-align: center;
+}
+
+.baseball {
+    font-weight: bold;
+    color: green;
+}
+
+.american {
+    background-color: yellow;
+}
+
+/* .football {
+    padding: 50px;
+} */
+
+img {
+    width: 50%;
+    height: 50%;
+    display: inline;
+}
